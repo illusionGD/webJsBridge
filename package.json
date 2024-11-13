@@ -1,0 +1,12 @@
+{
+    "name": "webJsBridge",
+    "version": "1.0.0",
+    "description": "web和原生（Android、ios）通信jsBridge基础框架",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
